@@ -3,7 +3,7 @@
 // @version      0.1
 // @description  Mostrar puntajes de netflix & links IMDB/Metacritic/Rottentomatoes (Basado en el trabajo de Ioannis Ioannou & mica)
 // @author       Nayibi Rojas y Julian Olmeda
-// @namespace    greasyfork.org/users/12559
+// @namespace    greasyfork.org/users/
 // @match        https://www.netflix.com/*
 // @include      https://www.netflix.com/*
 // @grant        GM_xmlhttpRequest
