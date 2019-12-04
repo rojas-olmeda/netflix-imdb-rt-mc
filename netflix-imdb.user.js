@@ -2,7 +2,7 @@
 // @name         Puntajes Netflix
 // @version      0.1
 // @description  Mostrar puntajes de netflix (Basado en el trabajo de Ioannis Ioannou)
-// @author       Nayibi Rojas y Julian Olmeda
+// @author       Nayiby Rojas y Julian Olmeda
 // @match        https://www.netflix.com/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
